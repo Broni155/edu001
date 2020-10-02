@@ -166,7 +166,7 @@ transform: scale(0.9);
   background-color: #80be41;
 }
 .feature-section .bg2{
-   transition: transform .4s; 
+   transition: trasnform .5s; 
 }
 .feature-section .bg2:hover{
 transform: scale(0.9);
