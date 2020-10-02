@@ -157,7 +157,7 @@ background-color: #f9703a;
 
 }
 .feature-section .bg1{
-   transition: transform .2s; 
+   transition: transform .4s; 
 }
 .feature-section .bg1:hover{
 transform: scale(0.9);
@@ -166,7 +166,7 @@ transform: scale(0.9);
   background-color: #80be41;
 }
 .feature-section .bg2{
-   transition: transform .2s; 
+   transition: transform .4s; 
 }
 .feature-section .bg2:hover{
 transform: scale(0.9);
@@ -175,7 +175,7 @@ transform: scale(0.9);
   background-color: #ffb258;
 }
 .feature-section .bg3{
-   transition: transform .2s; 
+   transition: transform .4s; 
 }
 .feature-section .bg3:hover{
 transform: scale(0.9);
